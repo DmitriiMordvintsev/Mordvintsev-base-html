@@ -1,0 +1,15 @@
+table {
+border-spacing: 0px;
+height: 1000px;  
+width: 1500px;
+}
+td.blue {
+background-color: blue;
+height: 500px;
+width: 1500px;
+}
+td.yellow {
+background-color: yellow;
+height: 500px;
+width: 1500px;
+}
